@@ -55,6 +55,7 @@ dotnet run
 ```
 
 Backend roda em: `http://localhost:5240`
+Swagger UI: `http://localhost:5240/swagger`
 
 ### Rodando o Frontend
 ```bash
